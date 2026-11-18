@@ -1,0 +1,6 @@
+{
+  "name": "GYM OS",
+  "description": "Run Your Gym. Smarter. Multi-tenant Gym Management SaaS Platform for managing members, plans, partial/full payments, attendance, and staff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
